@@ -31,19 +31,46 @@
 }
 
 .information {
-    width: 100%;
-    display: flex;
+    width: 100%;   
+    display: flex;    
     flex-direction: column;
     align-items: flex-start;
 }
 
 .information p {
-    margin: .5rem;
+    margin: .5rem 1rem;    
     display: flex;
     flex-direction: row;
     align-items: center;
     font-size: 1.125rem;
 }
+
+.information p::before {
+    content: '';
+    display: inline-block;
+    width: .8rem;
+    height: .8rem;
+    margin-right: .5rem;    
+    background-repeat: no-repeat;
+    background-size: contain;    
+}
+
+.information .job::before {
+    background-image: url(/assets/img/person-icon.png);
+}
+
+.information .location::before {
+    background-image: url(/assets/img/location-icon.png);
+}
+
+.information .phone::before {
+    background-image: url(/assets/img/wapp-icon.png);
+}
+
+.information .email::before {    
+    background-image: url(/assets/img/e-mail-icon-2.png);
+}
+
 
 .information p i {
     color: rgba(105, 44, 248, 0.445);
