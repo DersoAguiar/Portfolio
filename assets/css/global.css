@@ -6,7 +6,7 @@
 
 @font-face {
     font-family: 'Neue Machina';
-    src: url('/assets/fonts/neue-machina-regular.otf');
+    src: url('assets/fonts/neue-machina-regular.otf');
 }
 
 body {
@@ -36,7 +36,7 @@ h3 {
 }
 .main::before {
     content: '';
-    background-image: url(/assets/img/background-image-2.jpg);
+    background-image: url(assets/img/background-image-2.jpg);
     opacity: .5;
     background-repeat: no-repeat;
     background-size: cover;
