@@ -48,15 +48,50 @@
     ],
     "portfolio": [
       {
-        "name": "Curso Ministrado na DIO para a criação de uma Pokedex",
-        "url": "https://github.com/RenanJPaula/js-developer-pokedex",
+        "name": "Porfólio criado na Trilha JavaScript da DIO",
+        "url": "https://github.com/DersoAguiar/Portfolio",
+        "certificate":"", 
         "github": true
       },
       {
-        "name": "Curso Ministrado na DIO para a criação de uma página de portfolio",
-        "url": "https://github.com/RenanJPaula/js-developer-portfolio",
+        "name": "Construindo uma Pokédex com JavaScript",
+        "url": "https://github.com/DersoAguiar/Pokedex---DIO",
+        "certificate":"https://www.dio.me/certificate/F439CAD0/share", 
+        "github": true
+      },
+      {
+        "name": "Recriando a página inicial do Instagram",
+        "url": "https://github.com/DersoAguiar/desafio_modulo_2",
+        "certificate":"https://www.dio.me/certificate/08E6FD85/share",
+        "github": true
+      },
+      {
+        "name": "Construindo um App usando Sensor de Movimento com React Native",
+        "url": "https://github.com/DersoAguiar/DesafioLanterna",
+        "certificate":"https://www.dio.me/certificate/9FBEDE52/share",
+        "github": true
+      },
+      {
+        "name": "Construindo uma landing page temática e com uso de carrousel",
+        "url": "https://github.com/DersoAguiar/Spider-man-dio",        
+        "github": true
+      },
+      {
+        "name": "Landing page do Ignite Lab da Rocketseat",
+        "url": "https://github.com/DersoAguiar/ignite-lab-react-rocketseat",        
+        "github": true
+      },
+      {
+        "name": "Maratona Explorer: vou revelar seu destino!",
+        "url": "https://github.com/DersoAguiar/Maratona-Explorer",        
+        "github": true
+      },
+      {
+        "name": "Estudos em Ruby para selção da Husky",
+        "url": "https://github.com/DersoAguiar/inicio_ruby_on_rails",        
         "github": true
       }
+
     ],
     "professionalExperience": [
       {
