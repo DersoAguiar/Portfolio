@@ -56,7 +56,8 @@
       {
         "name": "Construindo uma Pokédex com JavaScript",
         "url": "https://github.com/DersoAguiar/Pokedex---DIO",
-        "certificate":"https://www.dio.me/certificate/F439CAD0/share", 
+        "certificate": true,
+        "urlcertificate": "https://www.dio.me/certificate/F439CAD0/share", 
         "github": true
       },
       {
@@ -91,6 +92,7 @@
         "url": "https://github.com/DersoAguiar/inicio_ruby_on_rails",        
         "github": true
       }
+
 
     ],
     "professionalExperience": [
