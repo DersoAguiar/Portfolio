@@ -43,9 +43,9 @@ function updatePorfolio(profileData) {
     portfolio.innerHTML = profileData.portfolio.map(portfolio => `<li>                                                   
     <h3 ${portfolio.github ? 'class="github"' : ''}>${portfolio.name}</h3>                       
     <a href="${portfolio.url}" target="_blank">${portfolio.url}</a>
-    <a href="${portfolio.certificate}" target="_blank">Certificado</a>
+    ${portfolio.certificate ? `<a href="${portfolio.certificate}" target="_blank">Certificado</a>` : ''}
     
-</li>`).join('')
+    </li>`).join('')
 }
 
 
