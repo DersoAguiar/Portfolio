@@ -12,7 +12,7 @@
 .acordeon.open,
 .acordeon:hover {
     background-color: #55569ec0;
-    border-color: #55569ec0;
+    border-color: #55569ec0;    
 }
 
 .acordeon .trigger {
@@ -57,7 +57,7 @@
     overflow: hidden;    
     height: 0;
     opacity: 0;
-    transition: opacity .5s ease-in-out ;
+    transition: .5s;
 }
 
 .acordeon.open .content {
