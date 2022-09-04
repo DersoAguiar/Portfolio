@@ -18,7 +18,8 @@
 }
 
 .skills .hardskills ul li img {
-    max-width: 80px;
+    max-height: 50px;
+    max-width: 50px;
     margin: .5rem;
 }
 
