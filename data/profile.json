@@ -48,6 +48,12 @@
     ],
     "portfolio": [
       {
+        "name": "Criando uma Calculadora com React",
+        "url": "https://github.com/DersoAguiar/calculadora-dio-react-developer",
+        "certificate":"https://www.dio.me/certificate/275358D2/share", 
+        "github": true
+      },
+      {
         "name": "Porfólio criado na Trilha JavaScript da DIO",
         "url": "https://github.com/DersoAguiar/Portfolio",
         "certificate":"https://www.dio.me/certificate/B1A09764/share", 
